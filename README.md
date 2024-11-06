@@ -2,6 +2,8 @@
 
 O jogo "Vilões da Saúde: Ciclo dos Parasitos Intestinais" foi desenvolvido como parte do trabalho de Luciana Biggi de Souza para o Programa de Pós-Graduação em Análise de Sistemas Ambientais do Centro Universitário CESMAC, na modalidade Profissional, como requisito para obtenção do título de Mestre.
 <br><br>
+O jogo foi feito através do Construct3, ferramenta com sistema de lógica baseado em blocos de eventos.
+<br><br>
 Autores:<br>
 Luciana Biggi de Souza<br>
 Luana Biggi de Souza<br>
