@@ -13,3 +13,6 @@ Profa. Dra. Vanessa Doro Abdallah - Coorientadora<br>
 Desenvolvedores:<br>
 Leila Maria Biggi de Souza Cavalcante<br>
 Lauro Maia Gomes Braga
+
+<h1>COMO JOGAR</h1>
+O jogo é composto por um cenário com 4 quadrantes clicáveis. Cada quadrante possui pelo menos um personagem com sua respectiva pergunta. Caso você responda corretamente, você ganha um ponto, caso você erre, você não ganha ponto. Ao todo, é possível obter 6 pontos, ou seja, existem 6 perguntas no jogo.
